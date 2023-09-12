@@ -1,0 +1,19 @@
+form {
+    display: flex;
+}
+
+.signin-container {
+    margin: 50px auto;
+}
+
+img {
+    height: 100vh;;
+}
+
+input {
+    margin-bottom:30px ;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
